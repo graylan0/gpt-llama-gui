@@ -26,7 +26,7 @@ Managing settings: The program loads settings from a JSON file, including the lo
 
 ### Installation and Requirements
 
-```
+
 Install Git:
 Git is a version control system that allows you to track changes in your code and collaborate with others. To install Git, follow these steps:
 a. Go to the Git website at 
