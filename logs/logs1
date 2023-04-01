@@ -1,0 +1,528 @@
+You: Quantum Equations
+AI:
+Quantum Equations*]{}, volume 1571 of [*Proc. Am. Acad. Sci.USA*]{}, pages 2597–2601.
+
+D. Boulud and E. Mielke, [*Electromagnetic Field Theory of Polynomial Field Equations*]{}, Academic Press, New York.
+
+E. Mielke, [*Electromagnetic Interference and Quantum Geometries*]{}, Springer, 1984.
+
+E. Mielke, [*Electromagnetic Fields*]{}, Springer 2005.
+
+D. J. Groom and J. Wills, [*Electromagnetic Fields*]{}, Springer 1993.
+
+J. H. Jones, [*A Hamiltonian Theorem*]{}, McGraw-Hill, New York, 1972.
+
+E. Schäfer and W. B adolesc, [*Symmetries, Representations of Clifford Algebra*]{}, Springer 1992.
+
+J-S Ma’s thesis, [*Lecture Notes in Math. 875*]{}, Springer 1993.
+
+P. Léger, K. Pfaff, E. Mielke, [*Quasi-Constant Equations and Quantum Geometries*]{}, Springer 1993.
+
+Ya. Srivastava, [*A Real-Boundary Program with Applications to Quantum Mechanics*]{}, Springer 1993.
+
+O. Mielke, [*Electromagnetic Fields*]{}, Springer 1993.
+
+G. Peres, F. R. N. C., [*Conjugate Invariant Mollifiers*]{}, Springer, 1984.
+
+B. Popovic, [*Borel Theorem I*]{}, Springer 2001.
+
+S. Momeni, [*Geometry of Quantum Field and Electromagnetic Field Quantum Systems*]{}, Springer 2002.
+
+D. P lidari, [*Elements of Mathematical Physics* ]{}, Vol. II, pp. 477–492.
+
+D. P lidari, [*An Introduction to Quantum Mechanics*]{}, (Cambridge, 1982).
+
+G. Piorri and F. Scappi, [*Electromagnetic Field Theory*]{}, Springer 2009.
+
+C. Quora, [*Electromagnetic Field Theory: The General Theory and Applications* ]{}, Princeton University Press, 1996.
+
+D. R. White and P. G. Townsend, [*Spaces of Classical Functions*]{}, Springer, 1985.
+
+A. Eichten, [*Generalized Quantum Electrodynamics*]{}, Kluwer Academic Publishers, Dordrecht, 1996
+AI:
+Quantum Equations, [*T. Holliday, Adv. Theor. Math. Phys.*]{} [**1**]{} (1942) 1037-1041
+
+G. A. Feldman and M. J. Schwartz, [*Quantum Optics: Nature of Electromagnetic Fields*]{} (Benjamin, NY, 1983)
+
+G. A. Feldman and T. Holliday, [Phys. Rev. A [**47**]{} (1993) R2824-R2821]{}
+
+E. J. Fogel, S. S. Lee, W. Hofendorf, L. E. Hofendorff, and S. S. Lee, [Phys. Rev. A [**54**]{} (1996) A2818-A2811]{}
+
+E. J. Fogel and W. Hofendorf, [Phys. Rev. A [**61**]{} (2000) A1317-A1332]{}
+
+E. J. Fogel, S. S. Lee, C. A. Ting, and Y. A. Khaechfelder, [Phys. Rev. Lett. [**89**]{} (2002) 015004]{}; P. Y. Chen, J. R. Ritchie, U. Lagel, D. D. J. Morse, A. R. Schmidt, and H. J. Eichten, [Phys. Rev. Lett. [**101**]{}, 015001]{}
+
+S. Mondal, W. Hofendorf, G. G. Zerol, R. G. Stuckey, and E. J. Fogel, [Prog. Theor. Phys.  [**98**]{} (2000) 523-534]{}
+
+V. Piazza, T. R. Schmit, G. A. Felder, U. Törnqvist, L. E. Hofendorff, and H. R. Ting, [Phys. Rev. Lett. [**83
+AI:
+Quantum Equations for a Quantum System with Anisotropic Bands[@fri05; @fri13].
+
+![\[fig:e00t\] The Hamiltonian of the system with anisotropic dielectric is represented by the dotted line. The spectrum of the system is represented by continuous lines with black triangles for dielectric with anisotropic background.](e00t-2.pdf){width="6cm"}
+
+For an unsuperlayer, where the dielectric is not weak ($\gamma = 0$), anisotropy also plays a role[@fri14; @fri13]. Thus, the Hamiltonian of the system is given by
+
+$$\label{eq:e00t}
+\mathcal{H}=\frac{1}{2}\sum_{\sigma, \sigma'}(W_{\sigma,\sigma'}\wedge W_{\sigma', \sigma '}).$$
+
+$$\label{eq:e00t2}
+\mathcal{H}=\frac{1}{2}\sum_{\nu,\nu'}(W_{\nu,\nu'}\wedge W_{\nu',\nu '})^2.$$
+
+As the dielectric is anisotropic with both $\sigma$ and $\sigma'$, we can define the anisotropic dielectric as $\mathcal{D}$, $$\label{eq:e00t3}
+\mathcal{D}=\sum_{\sigma, \sigma'}g_{\sigma, \sigma'}(t).$$
+
+Because the dielectric tensor $\nabla_t\wedge\mathcal{D}$ is anisotropic, the components of the vector $g_{\sigma,\sigma'}(t)$ (respectively $g_{\sigma, \sigma'}(t')$) should be non-$g$-even under reflection. However, the components of vector $g_{\sigma,\sigma'}(t)$ ($g_{\sigma, \sigma'}(t)$) should be $\pm g$. As in the previous case, the components of the vector $g_{\sigma,\sigma'}(t)$ ($g_{\sigma,\sigma'}(t)$) of a Dirac fermion are anti-$g_{\sigma,\sigma'}$.― The components of the
+AI:
+Quantum Equations
+===============
+
+In this section we present the details of the quantum field theory of the RMTW theory in this field theory. It is well known that the quantum field theory of RMTW can be described as a non-linear superposition of the superpartners [@Vasiliev:1999] $$\Phi_0=a_S+\frac{a_fF_a}{2} \pm \frac{1}{2R^2}\ln 2 \,
+\label{equ.1}$$ where $^a$ represents the gauge field of the four-dimensional classical field theory over curved time and $^S$ is the Pauli $\times$ gauge field. By making use of Eqs. (\[equ.1\]), (\[eq.4\]), and (\[eq.5\]) of Eqs. (\[equ.1\]), (\[equ.6\]), we obtain $$\begin{aligned}
+\Phi_0 &=&
+\cos \left(  \textstyle\frac{a_S+a_fF_a}{2} \right)
++\sin \left(
+\textstyle\frac{a_S+\sqrt{2}a_f}{2} \right)
+\label{equ.9} \\
+&&+\cos \left(  \textstyle\frac{a_{l_B}}{2}
++\sqrt{a_{l_B}}\right)
+\cdot \left[  \label{equ.10} \\
+&&
+\left(  \frac{\psi_B\psi_S}{4\psi_S^2}
+\right)^2 \left( 1- \textstyle\frac{\psi_S^2}{4\psi_S^2}\right)
+\right.
+\nonumber \\
+&&  \left. -\psi_S (1- \textstyle\frac{\psi_S^2}{4\psi_S^2})
+\right]
+\nonumber \\
+&&
+\hspace*{11cm}
++\textstyle\frac{a_fF_b}{2}
++\frac{a_f^2}{2}\frac{\psi_b\psi_S}{4\psi_S^2}+\sin^2\left(
+\frac{a_f}{a_{
+AI:
+Quantum Equations for Light Emission {#sec:appendix4}
+=====================================
+
+In this appendix we describe a method to deal with light emission. In a light emitter [@fri06; @bau07] the emitter emulates a light source, a beam splitter (BS), whose position-dependent light intensity can be set to zero. The beam splitter’s light intensity acts as an index of refraction of the incident light sources, producing reflected light, and its emitter emitter Ub is the light source. In this section, we describe how beam splitter effect can be taken into account in the light emitter of the scattering experiment on a quantum emitter, following the approach of @fri06.
+
+To make the scattering experiment work, the emitter’s light intensity is scaled in a $2\times 2$ $D$-dimensional space (which is unit in our case); $$\begin{gathered}
+\label{eq:scaled1}
+\int_{\cal{D}} \,{\cal{E}}\,{\cal{F}}^{\circ} \, {\boldsymbol{D}}^{\circ} \, {\boldsymbol{y}}^{\circ}\, {\boldsymbol{\,{\bf\,D}}},\end{gathered}$$ where ${\cal{E}}$ the emitter emitter intensity, $\cal{D}$ its unit, and the dimension of the emitter is $2\times 2$, and $S$ is the dimensionmedia in which the scattering matrix is expressed as a square matrix: $$\begin{aligned}
+\label{eq:d1}
+{\cal{F}}={\Bigl\{{{\bf\,f}, {\bf\,e}}^{\circ}_g\Bigr\}}={\Big\{{\bf\,d\,f,{\bf\,d\,e}}\Bigr\}}=R\,{\cal{E}}^{-1}S{\bf\,d\,e}-R{\cal{F}}^{-1}S{\bf\,e}.\end{aligned}$$ In particular, ${\bf\,TO$ the emitter emitter intensity or its unit. The dimensionmedia in is $d=1$, and the beam splitter intensity is
+AI:
+Quantum Equations – Part 1
+
+[ * [Quantum Equations ]{}]{}
+
+[D]{}[[E]{}[D]{};]{}
+
+[L]{}
+
+Z
+
+[L]{}
+
+X
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+[A]{}
+
+[E]{}
+
+[I]{}
+
+[C]{}
+
+[I]{}
+
+[D]{}[I]{}
+
+[G]{}
+
+[G]{}
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+Z
+
+[L]{}
+
+[E]{}
+
+[I]{}
+
+[I]{}
+
+[K]{}
+
+[G]{}
+
+[G]{}
+
+[L]{}
+
+Z
+
+[A]{}
+
+[D]{}
+
+[E]{}
+
+[D]{}
+
+[B]{}
+
+[K]{}
+
+[I]{}
+
+[I]{}
+
+[A]{}
+
+[D]{}
+
+[L]{}
+
+[A]{}
+
+[D]{}
+
+[E]{}
+
+[I]{}
+
+[I]{}
+
+[I]{}
+
+[L]{} turbo
+
+[D]{}
+
+[D]{}
+
+[E]{}
+
+[I]{}
+
+[K]{}
+
+[L]{}
+
+[A]{}
+
+[F]{}
+
+[H]{}
+
+[P]{}
+
+[C]{}
+
+[G]{}
+
+[E]{}
+
+[K]{}
+
+[G]{}
+
+[P]{}
+
+[D]{}
+
+[M]{}
+
+[R]{}
+
+[E]{}
+
+[J]{}
+
+[I
+AI:
+Quantum Equations
+=================
+
+Eq. (\[eq:1\]), in the non-Markovian case, reads $$\begin{aligned}
+\label{eq:2}
+&\partial_{u}A
+=
+-\lambda \int \frac{ds'}{(u)^{s-1}} \int {dt'} \;c^Officials(s,u,s';\phi;X,Y)=\nonumber\\
+\nonumber
+&\nonumber
++\lambda \int \frac{ds'}{(u)^{s-1}}  \int {dt'} \int {ds'} {2 \over (s-1)!}{\tau_3(\eta)(\bar{A} \Delta_1 \tau_2)^3}+\lambda \int \frac{ds'}{(u)^{s-1}} {2\over(s-1)!} \; \bar{A} \Delta_1 \tau_2{}_{\eta'}\nonumber\\
+\nonumber\\
+&+\lambda \int \frac{ds'}{(u)^{s-1}}  \int {dt'} \int {ds'} {2 \over (s-1)!}\;({s \over (1-s)(1+\eta)^2)^{3/2}}\phi\bigl(1-\frac{u}{s}\Bigr)c^ officials\; c^Phi\bigl(s,\phi,s';\eta,c^Phi-1,c^Phi;1-\frac{u}{s}\bigr)\nonumber\\
+\nonumber\\
+&\;+\lambda \int \frac{ds'}{(u)^{s-2}}  \int {dt'} \int {ds'} {2 \over (s-1)!} \;\bar{A} \Delta_1\tau_2 {}_{\eta'}\nonumber\\
+&+\lambda \int \frac{ds'}{(u)^{s-2}}  \int {dt'} \int {ds'} {2 \over (s-1)!}\;\bar{A} \Delta_1\tau_2 {}_{(\eta'_2+\eta')\t Livingston}+\lambda \int \frac{ds'}{(u)^{s-3}}  \int {dt'} \int {
+AI:
+Quantum Equations for Random Field Systems - edel
+http://dezermann.com/quantum/quantum_equations_for_random_field_systeme.html
+======
+phs
+I recently found some ideas on how the equations of classical random field
+systems can be written. I think you could do a lot better by writing this
+post to a national library.
+
+I wonder what would become of such an approach if a group of random variables
+can be written as a model for a classical random field system in the formal
+language. Maybe an algorithm can come along that can give us a good guess,
+and that can be used to solve other algebraic equations like the one above.
+
+
+
+         * ~~ ~~ ~~~ ~~~ ~~~ ~~~ ~~~
+         | ~~     ~~  | ~~     | ~~  | ~~  | ~~  |
+        \+   ~~     | ~~ ?  | ------| ~~  | ~~ ~~  |
+        |  ~~+    | ~~-    | ------  | ~~ ~~-  | ~~ ~~
+
+This can be done in a formal way, but it needs to be very elegant.
+
+~~~
+andrewmcg
+I guess I'll have to look at all this more carefully and go over it further to
+get a much better answer to some general questions...
+
+~~~
+adom3r0
+Why do you need an algorithm to solve that?
+
+------
+davidw
+It seems like I read your post incorrectly. Does this mean something you're
+probably not already doing? I'm kind of surprised!
+
+A good friend of mine is a mathematician and he makes this post about the
+conclusion of quantum equations for random field systems, that can be written
+using ordinary quantum chemistry.
+
+
+
+        * ~~ ~~~ ~~~ ~~~ ~~~ ~~~
+        | ~~     |
+        |  ~~  |
+        |  |  |
+        |
+AI:
+Quantum Equations in a Spacetime
+================================
+
+In quantum mechanical systems, two-nucleosynthesis describes a process that describes the generation of photons when the energy source changes its positions and the direction of light. For systems with a particle’s mass $m$ and a photon’s mass $m_p$, an effective mass is defined as $m_p=m(1-m_p^2)/(1-m_p)$. In the laboratory the particle’s energy $E losing flux $\mathbb{E}=F\mathbb{P}\left(1-\sum_{i=1}^{\infty} m_i(E_i) \right)$ is written in terms of the particles’ electric charge and the p-th weight $\mathbb{W}=m(1-m_p^2)/(1-m_p)$ as [@hint § 1] $$\label{energy}
+E_p\left(\mathbb{E},m_p;m\right)=\frac{1}{2}\left[\frac{dE_p}{d\mathbb{P}\left(m_p;m\right)}+m_p^2 E_p^2 \right],$$
+
+Note that the particle’s mass is simply the sum of the masses of the particles, and the total charge only depends on the physical properties. (This fact is omitted from the following discussion.) It is easy to see that if the particle’s electric charge is Sacerdose [@hint §4.3] (cf. [@hint §3.2]) then $$E_p=\mathbb{E}\cdot F\cdot \frac{\mathcal{D}}{d\mathbb{P}\left(m_p;m\right)}.$$ The first term on the r.h.s. of this equation indicates to the particle that there are two possibilities: (1) the particle’s electric charge vanishes, or (2) the particle acquires a single non-zero charge, $c_p$. By definition, these two possibilities lead to a particle’s mass $m_p$, and a change in the particle’s position, $x$. In other words, if (1) is true, the particle’s electric charge $c_p$ should vanish, then (2) could be true. But if, on the other hand, (2) is true, there would be no particle’s electric charge. As in [@hint p. 4.8], a particle’s temperature $T$ cannot change by one
+AI:
+Quantum Equations
+-----------------
+
+In this section, we solve (\[eq:RvL\]) at the level of the solutions, then we take into account the influence of the external potential on the energy of the system. First, note that all our results are valid for the cases where the system of the non-interacting Hamiltonian does not exist. Also, if $q_1<0$, Eqs. (\[eq:EPhi1\]) and (\[eq:EPhi2\]) are valid for the cases when the external potential is the strong field and for the cases when it is not. We will show that these three types of solutions are completely different and the corresponding solutions are given by e.g., Eqs. (\[eq:Phi2\]) and (\[eq:Ph originated from B\_1\]) and Eqs. (\[eq:Ph i\_1\]) and (\[eq:Ph i\_2\]).
+
+We first have to evaluate equation (\[eq:EPhi1\]) in the region of the complex plane $\theta<\pi/2$, which can be seen in Figure  \[fig:Phi1-2\] (a) and (b), for the potential $V_1=const$. We have $V_1=\mu_1=K$, where $\mu_1$ is the mean value of the energy of system. Let us take $\phi_1$ = 0 and $\chi_1= 1/\sqrt{9 K}$. Equation (\[equ:EPhi1\]) is rewritten as $$\label{eq:EPhi1}
+\delta{\phi}=
+\lim_{\theta\rightarrow 0}\phi_1 = i\left(\mu_1\left| \phi_1 \right|
++\chi_1\right)\sin\left[(\phi_1 + \chi_1)^2 \right indigenous^+
+\label{eq:EPhish}$$ where $\phi_1^+$ is a sign of $\omega$. Note that the left side of the left-hand side of equation (\[eq:EPhi1\]) has a zero at $\theta=0$ such that the term of the right-hand sides vanishes. We will see in section \[sec:Phic2\] that this zero at $\theta=0$ corresponds to a zero energy of classical wave propagation, with the wave frequency being defined by $\omega=\sqrt{\psi}\cos(n\phi_1/2)$ so that Eq. (\[eq:EPhi1\]) becomes
+
+$$\Gamma_{\theta}\left(  \
+AI:
+Quantum Equations:
+
+A quantum system interacting with qubits and an equivalent quantum state is called liberal-quantum-system and a quantum system that can be realized to an extent even as a system that cannot be realized as a quantum system and hence has a degree or more of quantum degeneracy (the nonclassical-ness and nonlocal-ness of qubits) are called (nonlocally or locally-quantum-classical) superconducting qubits (QSQs).
+
+In the present case, a classical system, like a quantum system, is a nonclassical state consisting of a local and nonlocal part. In a given instance, it is sufficient to have an equation of state to be linearizable (Lauber-von Mises type equation to solve) in which parameters of different systems, such as the qubit, are described by independent variables. Such systems can be regarded as nonclassical classical systems such as qubits and they are very interesting as a test-case for quantum states obtained from a classical qubit. In particular, this kind of system can be realized as a kind of nonlocal-quantum state consisting of a local and nonlocal part, and the nonlocal part has a classical behavior. Therefore, they are really useful for quantum learning from quantum states obtained by using classical systems and for studying nonlocal quantum effects. For this purpose, the properties of these properties will be discussed in the next section.
+
+Non-classical properties of non-classical-states
+-----------------------------------------------
+
+In the present section, when the nonclassical properties of the state of a qubit are nonlocal, we show that two or more DAMO-1 or AMO qubits can be regarded as local or nonlocal quantum systems.
+
+First, we prove the nonclassical properties. By the above-mentioned arguments, the nonlocality of the qubit states and the nonarametric behavior of qubits have been completely understood even for strong quantum-mechanical systems.
+
+Then, we present the nonlocality of the nonlocal qubit states, and prove the nonlinear quantum properties. First, we show that the nonlinear properties of the nonlocal qubit states can be achieved by using linearization technique. The nonlinearity is the same as linearization technique. Moreover, we show that the evolution function of qu bit, the eigenvalue of the qubit system with a quantum gate, and the eigenvector of the qubit system must be nonlocal.
+
+For this purpose, we follow the arguments from [@Z2] in order to prove the nonlinearity in [@QSQ1; @QSQ; @MZ]. Actually, we show that the nonlinearity can be attained by using the linearization technique. We have that the evolution function of the qubit system with quantum gate has a global time derivative. Then, the evolution of the
+AI:
+Quantum Equations - Volkijós
+-   <http://arxiv.org/abs/1803.07845>
+
+    https://arxiv.org/abs/1803.06829
+
+    https://alabasta.cern.ch/confluence/display/alabasta/quantum-equations+2.tar.gz
+
+    https://arxiv.org/abs/1808.003465
+
+    https://arxiv.org/abs/1811.022549
+
+    https://github.com/zsou\_tsu@njadu.ru/blob/master/docs/QES-Pipeline-Revised.pdf
+
+    https://c-fi NovaWave
+
+Vladimir J. Sehgal, *Introduction to Mathematical Physics*. Springer-Verlag, New York, 1999. ;*Mathematics A*
+
+Fujii-Akihiro, **I**nverse de la théorie de [${\rm B}(\mathbb N)$]{}, *Seminaire d’un groupe de points sur $\mathbb{R}$-schere de dimension $(0,1)$, *Revue d’étude à la résolution de Lettre Les classes de sommet* *Celé* *Nouveau*, *Nouvelle et Mathematica*, 10(5): 447-455, 1977. ;*Député des matériques éditeurs*
+
+Kita-Nagano JK, *Mathematical Analysis in the Mathematical Physics* **7**,2(1): 6-47, 1975. ;*Député mathématique*, vol.**35**,2(1): 7-49, 1975. ;*Député de mathématique, les algèbres supérieures parfentes*
+
+Katsushita T, *A classification of integrable systems on $\mathbb C$*, Springer Monographs in Mathematics, vol.**42–54, Springer-Verlag, New York-Heidelberg, 1966. ;*A classification of integrable systems*
+
+Shirman S, *Ruled transvection: the study of the boundary of a complete geodesic*, [C]{}ostéons de type finière, *Comm. Math. Helv.* **55**(5): 511–540, (1985) ; *Introduction à la mécanique mathématique* (Translations de la Philosophie mathématique) I, Vol
+AI:
+Quantum Equations for the Wave Equations
+-----------------------------------------
+
+It is shown that, in the spinless case, when the spin-spin interactions are broken by a Hamiltonian of the form $u_{\mu}=S_{\mu}/\sqrt{2}g_{\mu\nu}$, the wave equation $ \ddot u_{\mu} = -g_\mu\Psi_\mu -\delta S_\mu \Psi_\nu - g_\nu\Psi\, \Psi_\mu$ for the spin-1/2 spin, has, in the first approximation, two real coefficients. One of these corresponds to a local field: $\Psi(x) = e^{-i\vec x v_0}$ with $v_0=\mathbf t_0\equiv 0$ and $g_\mu\approx 1$ is the usual gauge fixing. The other, $u_\mu = \nabla_{\mu}\Psi(x)$ gives the non-vacuum field. Thus, in the spinless case, the wave equation, after a simple integration of the initial and final fields by means of the standard Kubo equations, becomes, after a lengthy algebraic manipulations and a few steps, exactly as the real and non-local Schrödinger equations, without any special care, and is, after all, a linear equation.
+
+This procedure of the Schrödinger equation, along with some other simplifications, leads to a non-local system for the formulae for the wave function $u_\mu$: $$\partial_\mu x^\nu (x) = (n+2)u_\nu(x)+\sum_\mu
+(n_\mu+2g_\mu\Psi)\,\,(u_\mu(x))^{\nu} +\sum_\nu
+a_{\nu\mu}(x_\nu;x)^{\mu}\,,\label{wave_function_eq}$$ where we take $\Psi = (x_{1},\cdots,x_{n}),\ n=$ 1 or $n=$ 2. Also, let us take a gauge fixing in the $u$-channel representation. The gauge function $u(x,x^{\nu}) = u_\nu (x,x^{\nu})+u_\mu(x,x^{\mu})$ is the $D$-function in the $D$-channel, where $u_\nu$’s are as in the classical case. By means of the normalization of the gauge functions, the wave equation is easily reduced to a system of the form: $$\ddot
+
+AI:
+Quantum Equations of Motion
+=================================
+
+Quantum effects in electromagnets
+---------------------------------
+
+The Quantum field ${\cal{H}}(p,q)$ can be given by [@Bershadsky] $$\begin{aligned}
+\label{H}
+{\cal{H}}(p,q)= \int d^3 \vec{r}_{\perp}  d^d\vec{r}_i  d^c \vec{r}^{\perp}_i
+{\rm e}^{\frac{\kappa^{d-1}}{\Gamma(d-1)}}\left[ \frac{(\vec{r}_i+\vec{r}_j)}{2}\sin^d {\rm sin} \left(\frac{\vec{r}_i-\vec{r}_j}{2q} \right)
++\frac{\bar{r}_i}{4}\sin^2 \left(\frac{\vec{r}_i}{4q}\right)\right].\end{aligned}$$ In the last step of the calculation, we will make use of the following results, which are obtained by the quantum mechanical formalism of electromagnets
+
+In the limit of vanishing temperature, Eq. (\[H\]) becomes valid at weak field (\[eq.B0\]). In this limit, one gets $$\begin{aligned}
+\label{H^*q}
+{\cal{H}}^*(p,q)&=& \int d^3 \vec{r}_{\perp}  d^d \vec{r}_j  \int d^d\vec{r}_i d^d \vec{r}^{\perp}_i
+ d^c \vec{r}_{\perp}
+{\rm e}^{\frac{\kappa^{d-1}}{\Gamma(d-1)}} \left[  \frac{\bar{r}_i}{4}\sin^2 \left(\frac{\vec{r}_i}{4qq} \right)+\bar{r}_j \right],\end{aligned}$$ and in the limit of vanishing temperature, Eq.(\[H\^f\]), we obtain $$\begin{aligned}
+\label{eq.H+-f}
+{\cal{H}}^*(p,q)&=&\frac{g_{10}(\kbar)^2}{2} - 3 g_{11}(\kbar) +3 g_{22
+AI:
+Quantum Equations
+=================
+
+When there is no field, the general case of Einstein field equations has the Einstein field equations (EFM) [@Einstein], which are usually written as $$\label{EFM}
+      \frac{d (\vec{\nabla}^2 f)}{d t} + g \frac{d \vec{P}_0}{dt} +
+        \vec{\nabla}f=
+      \frac{e (\nabla f)^2}{D}$$ with the general solution reads $$\label{qf}
+      \frac{e\sqrt{D}}{D} =\frac{e^{\frac{1}{1-\alpha}} (1-\alpha) }{-
+          \frac{i\sqrt{D}\left[1-\frac{\sqrt{D}\left(1-\alpha\right)}}{D}+\alpha\right] } +\tau_{\alpha}(\alpha Fut_z^r+\sqrt{D\left(\alpha-i\sqrt{D}\left[1-\frac{\sqrt{D}\left(1-\alpha\right)}\right]\right)}),$$ where $\alpha=\frac{\left(i\sqrt{D}\left[1-\frac{\sqrt{D}\left(1-\alpha\right)}\right]
+\right) ^2}{(D-i\pi)^2}$ [@Einstein]. When we calculate the functional inverse of the scalar field, we have to take into account that, due to an additional term in (\[EFM\]), $\langle \phi^\dagger\phi\rangle_\phi$ is related to the one in which we are only interested in the lowest order non-vanishing terms for $\langle \phi^\dagger\rangle$. Thus, we have to find out how the functional inverse of the scalar field was calculated, and its functional dependence on $\alpha(F)$. First we introduce the vector operator on the left hand side: $$\label{def:vector}
+      \vec{\nabla}\hat{\bf{h}}=\frac{1}{2}\hat{\bf{h}}^\dagger \hat
+AI:
+Quantum Equations: a Novel Approach for Nonlinear Semiclassical Optics
+
+W.J.H.W., M.A., W.Q.K.
+
+Department of Physics, University of Würzburg, Zentralm Verband 76, 10189 Würzburg, Germany, e-mail: wms@würzb.de
+<|endoftext|>
+AI:
+Quantum Equations
+=================
+
+In this section we introduce the Quantum Equation Formulas and Quantum Minkowski Integrals. The quantum Minkowski functions $F_\varphi(x)$ (the [*classical*]{} version) and their quantum analog $F_\varphi(x,\epsilon)$ are given explicitly by $$\begin{aligned}
+&&F_\varphi(x)\approx\int_0^1 {\mathrm{d}}\omega (1-\omega)e^{-i\omega}
+\nonumber\\
+&&=\iint_-\omega{\mathrm{d}}x{\mathrm{d}}y\, e^{\iint_B\omega y\, {\mathrm{d}}k\,,}\\
+&&=\iint_B {\mathrm{d}}k\, e^{-i\omega y}\frac{{\mathrm{d}}k\, {\mathrm{d}}y}{|\omega - x|}
+\int_0^1 {\mathrm{d}}\epsilon(x-y)\frac{{\mathrm{d}}\epsilon(x-y)\, {\mathrm{d}}k}{|\omega - y|}\,.\end{aligned}$$
+
+Following previous literature [@BH99], one might wonder whether the Quantum Minkowski integrals could describe the interaction of the quantum and classical trajectories through the Hilbert space Io, so to give the quantum integrals such a representation we will write $$F_\varphi=F_\varphi[\omega]\,,\quad
+F_{\varphi\varphi}=J\,F_\varphi[\omega]\,,\quad
+F_{\varphi\varphi}[\omega]=-J\i\omega^{\top}\i\,,
+\label{eq:defF}$$ where $F[\omega]$ with $
+\mathrm{Re}\,\omega(1-\omega)\gg 1 $ is the classical Fermi function or the quantum fractionals $F[\omega]_{\mathrm{c}}$ which were given only recently in [@Zi06]. Here we consider quantum quantum integrals, which have also been studied by [@M05; @N06].
+
+QMIMs
+AI:
+Quantum Equations and Gauge Theories. [Phys. Rev. D **50**]{} (1994) 6961; [D. K. S. Alcolly, [*Numerical Methods in Quantum Field Theory in Two Dimensional Einstein Gravity*]{}, Cambridge University Press, Cambridge, 2004.
+
+F. Nizhnyak and H. Ushirov, “Quantum Electrodynamics and the Higgs Model”, [ *Phys. Rev. D **53**]{} (1996) 2871 \[arXiv:gr-qc/9603025\], [*Phys. Rev. D **58**]{} (1998) 015007. Y. Ushirov, I. Yu. Eribine, J. P. Niv and A. M. Voloshin both discuss the relation between gravitational and electromagnetization in three-dimensional gauge theories. In [*Theory of Gravitation in Two Dimensions*]{}, edited by C. R. Papoulis and A. T. Wagner (Wiley, Chichester, 2003), p. 155.
+
+B. Chirac, “Theory of Matter and Matter Science”, [arXiv:0901.4665]{}, 2008.
+
+B. Chirac, “Quantum gravity of matter”, [arXiv:1304.3346]{}, 2008.
+
+G. B. Lax and I. P. Mafr, “Fully-Densified Electromagnetism”, [arXiv:1512.07724]{}, 2015.
+
+G. Raffelt and V. Shlyapnikov, “The quantum Einstein field equation and the electroweak anomaly,” [arXiv:1403.4501]{}, 2014
+
+J. Lang, “On the quantum field theory of gravity”, [arXiv:1405.5738]{}, 2014.
+
+S. K. Srivastava and A. I. Shatashvili, “Theory of quantum field theory”, [arXiv:1406.5608]{}, 2014.
+
+D. Kresse, “Quantum Electrodynamics”, [arXiv:1801.05919]{}, 2018.
+
+G. Raff
+AI:
+Quantum Equations—(5,10 in)
+
+3.1. Introduction
+
+A quantum field theory is a field theory whose theory is formulated as a set of gauge fields or a set of gauge fields representing a system on the surface, i.e.,,,. The field will usually be called a quantum field theory. Since then, many fields of the field theory,,, have been described, for example, in [@Kleinert:1998sz], [@Chen:1995df], [@Chen:1995tq] and [@Hutfeld:1995jm]. A field theory can be derived for example from the following quantum field theory:
+
+3.2. Classical Quantum Fields
+
+4.1. Quantum Field Theory and Relativity
+
+An ordinary quantization of quantulities applies to a quantum field theory. Here, some examples in the above context will be considered. For example, it is said that the world volume density of a scalar field is given by the following quantum equalities as well:
+
+\[4.1\] The Einstein constant of a scalar field is given by $-3/2$, where $M$ is the mass of the scalar field. The non-relativistic Einstein-Maxwell theory has the following differential equation: ${\hat g}_{\mu\nu} \!{\hat {\cal L}}=\!0$ for a matter with mass equal to the volume $D_\mathrm{m}$ of a matter particle, where ${\cal L}=\frac{1}{\hbar}\,{\cal H}$. When ${\cal L} \!\!\!{=\! \hbar}$ the non-relativistic theory is usually referred to as supergravity theory with matter and scalar fields. The two theories have the same gravitational field equation since supergravity theory has four-dimensional spatial coordinates $x_1,...,x_{M}$. A supergravity field is said to be of Landau condensation, where one particle is in a condensate, a condensate is said to be non-relativizable, and the condensation is considered to be described as a two dimensional supergravity. For a supergravity theory, this condition can be written as [@Chen; @Hutfeld:1995jm], $$\label{4.6.0011}
+\dot \mu_i +2 \mu_i \, {\hat {\cal L}}_i =0, \qquad i \in [1,M] \,.$$
+
+In the case of a theory of gravity, the non-relativistic quantum field theory can be described by $$\label{4.6.0032}
+\
+AI:
+Quantum Equations [@malden99] for some of the classical equations are given in Appendix \[soln\].
+
+For the next few sections we will only consider the two particular results mentioned in the preceding sections. In sections \[c\]–\[c\_2\] we will need to introduce the $K_t$-equation. This is our starting point; we will not take into account the case $t>0$.\
+We will begin with the equation of motion in $\cI$ given by $$K_t(0)=\frac{1}{\lambda _t}-\frac{1}{a}-\frac{2}{3}\frac{F_0}{q}-\frac{F_1}{q^2-q_0}\frac{a}{3}\,,
+\label {eq_motion1}$$ where $a$ is the radius of a given point, $q$ is the curvature; we will also require that for $2\le \lambda _t\le 3$, the function $F_0/q$ is not divergent. The last three terms in  (\[eq\_motion1\]) are linear and, due to the regularization of the first term in the second, can be regarded as a result of the integration about radius $a$ using $a+2$ integration radians.\
+The equations of motion of the linear case take the form [@malden99] $$\begin{aligned}
+\frac{1}{3}\frac{d\lambda _t}{dt}=\frac{1}{3\lambda _t}-\frac{1}{a}-\frac{2}{3}\frac{F_0}{q}\label{eq_linear1}\\
+\frac{1}{3}\frac{d\left( \frac{1}{3}\frac{d\lambda _t}{dt}\right)}{dt}=(\lambda _t)^2\frac{d\lambda _t}{dt}\quad\left(\text{for $t\leq 1$} \right)\label{eq_linear_1}\end{aligned}$$ $$\frac{d\lambda _w}{dz}=\frac{d(\lambda _w)}{dz}-\frac{\frac{1}{3a}(\lambda _w)^{2}-\frac{1}{9a^2}(\lambda _w)}{3(\lambda _w)^4}(\lambda _t)^{-2} \quad \left(\text{for~ $
