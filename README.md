@@ -2,6 +2,11 @@
 # GPT Neo GUI
 Gray00 from One Love IPFS created a community Artificial Inteillgence tool that uses Free/Open Source GPT-NEO 125M Model along with a free/open source python Graphics User Interface template is a Python program template and real world research tool that uses the GPT-Neo language model to generate responses to user inputs in a chatbot-like interface. The program uses the Transformers library to access the GPT-Neo model and tokenize user inputs, and the tkinter library to create the user interface.
 
+
+Graphical Demo and Quantum Mechanics Equations
+
+![image](https://user-images.githubusercontent.com/34530588/229308122-760ea2cb-8f9c-4b84-b8a3-fdc55854d71b.png)
+
 The main features of the code are:
 
 Loading and configuring the GPT-Neo model and tokenizer: The program loads the GPT-Neo model and tokenizer from the Hugging Face model hub using the Transformers library. It also adds a padding token to the tokenizer and sets the padding token ID in the model configuration.
