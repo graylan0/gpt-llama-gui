@@ -98,11 +98,12 @@ To use the script, run the Python script from the command line or terminal. Once
 ### Configuring the JSON files:
 The script uses two JSON files to store settings and trideque prompts. These files can be edited to configure the behavior of the program. Here's a guide on how to edit these files:
 
-a. settings.json: This file contains the following settings:
+a. `settings.json`: This file contains the following settings:
 
-loop_count: The number of times to repeat the trideque prompts. Set to -1 to run indefinitely.
-time_limit: The maximum time in seconds to generate a response using GPT-Neo. Set to a higher value for longer responses.
-b. trideque.json: This file contains a nested list of prompts to generate responses using GPT-Neo. Each prompt can be a single sentence or a longer paragraph. To add or remove prompts, simply edit the contents of the file using a text editor.
+`loop_count`: The number of times to repeat the trideque prompts. Set to -1 to run indefinitely.
+`time_limit`: The maximum time in seconds to generate a response using GPT-Neo. Set to a higher value for longer responses.
+
+b. `trideque.json`: This file contains a nested list of prompts to generate responses using GPT-Neo. Each prompt can be a single sentence or a longer paragraph. To add or remove prompts, simply edit the contents of the file using a text editor.
 
 Running the script:
 To run the script, open a command line or terminal window and navigate to the directory containing the Python script. Then, type the following command and press enter:
