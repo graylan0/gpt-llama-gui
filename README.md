@@ -55,11 +55,6 @@ b. Navigate to the directory where you want to install the GUI.
 c. Type the following command to clone the repository: 
 
 `git clone https://github.com/graylan0/gptgui/`
-
-Replace "username" with the username of the repository owner and "repository" with the name of the repository.
-d. Once the repository is cloned, navigate to the directory containing the repository.
-e. Run the Python script to start the GUI.
-
 ### Install PyTorch:
 
 PyTorch is a popular deep learning framework that can be used to build and train neural networks. To install PyTorch, follow these steps:
@@ -94,6 +89,9 @@ Sure, here's a guide on how to use the script, configure the JSON files, run the
 
 ### Using the script:
 To use the script, run the Python script from the command line or terminal. Once the script is running, you can interact with the chatbot-like interface by typing messages in the text entry field and pressing the "Send" button or the "Enter" key. The program will generate responses to your messages using the GPT-Neo language model and display them in the conversation history box.
+
+Once the repository is cloned, navigate to the directory containing the repository.
+Run the Python script to start the GUI.
 
 ### Configuring the JSON files:
 The script uses two JSON files to store settings and trideque prompts. These files can be edited to configure the behavior of the program. Here's a guide on how to edit these files:
