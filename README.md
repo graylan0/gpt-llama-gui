@@ -8,8 +8,11 @@ Gray00 from One Love IPFS created a community inspired Artificial Inteillgence t
 
 
 ### Graphical Demo with Quantum Equations
-
+Ubuntu:
 ![image](https://user-images.githubusercontent.com/34530588/229308122-760ea2cb-8f9c-4b84-b8a3-fdc55854d71b.png)
+
+Windows 10:
+![image](https://user-images.githubusercontent.com/34530588/229383067-d8a15ae7-75fe-4dfe-8138-c9d0339ba229.png)
 
 ### Features
 
