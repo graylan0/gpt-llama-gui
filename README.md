@@ -1,6 +1,10 @@
 
-# GPT Neo GUI
-Gray00 from One Love IPFS created a community inspired Artificial Inteillgence tool using Free/Open Source GPT-NEO 125M Model along with a free/open source python Graphics User Interface. As Python program research template for others to go by as well as a real world research tool. Our model uses the revolutionary GPT-Neo language model to generate responses to user inputs in a chatbot-like interface. The program uses the Transformers library to access the GPT-Neo model and tokenize user inputs, and the tkinter library to create the user interface.
+
+# NPGPT Neo GUI
+
+(No Prompt Pre Trained Post Trained Generating Transformer)
+
+Gray00 from One Love IPFS created a community inspired Artificial Inteillgence tool using Free/Open Source GPT-NEO 125M Model along with a free/open source python Graphics User Interface. The Intellience System uses the Transformers library produce quality replies from the (Noprompt) NPGPT-Neo model and tokenize user inputs, and the tkinter library to create the user interface.
 
 
 ### Graphical Demo with Quantum Equations
