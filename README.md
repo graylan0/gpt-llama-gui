@@ -12,7 +12,8 @@ Ubuntu:
 ![image](https://user-images.githubusercontent.com/34530588/229308122-760ea2cb-8f9c-4b84-b8a3-fdc55854d71b.png)
 
 Windows 10:
-![image](https://user-images.githubusercontent.com/34530588/229383067-d8a15ae7-75fe-4dfe-8138-c9d0339ba229.png)
+![image](https://user-images.githubusercontent.com/34530588/229383244-fd98f89b-480e-4857-8b79-da5f05e5f323.png)
+
 
 ### Features
 
