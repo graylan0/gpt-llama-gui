@@ -1,7 +1,16 @@
 
 
 # NPGPT Neo GUI
-Requirements:
+Requirements: For Windows CPU only
+
+```
+pip install customtkinter
+pip install torch torchvision torchaudio
+pip install transformers
+pip install Image
+```
+
+Requirements: For Windows GPU
 
 ```
 pip install customtkinter
@@ -9,6 +18,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install transformers
 pip install Image
 ```
+For Linux Go here
+https://pytorch.org/get-started/locally/
 
 (No Prompt Pre Trained Post Trained Generating Transformer)
 
