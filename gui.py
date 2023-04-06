@@ -3,7 +3,7 @@ from transformers import GPT2Tokenizer, GPTNeoForCausalLM
 import customtkinter
 import json
 import os
-from customtkinter import CTkImage  # Add this import at the beginning of the code
+from customtkinter import CTkImage
 from PIL import Image, ImageTk
 import tkinter as tk
 from tkinter import Frame, Scrollbar, Y, END
