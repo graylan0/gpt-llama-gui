@@ -1,6 +1,14 @@
 
 
 # NPGPT Neo GUI
+Requirements:
+
+```
+pip install customtkinter
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip install transformers
+pip install Image
+```
 
 (No Prompt Pre Trained Post Trained Generating Transformer)
 
