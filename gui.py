@@ -11,9 +11,6 @@ from customtkinter.windows.widgets import ctk_textbox
 import threading
 from datetime import datetime
 import time
-import sys
-
-sys.setrecursionlimit(100000)
 
 customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("green")  # Themes: "blue" (standard), "green", "dark-blue"
