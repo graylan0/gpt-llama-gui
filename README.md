@@ -23,7 +23,7 @@ https://pytorch.org/get-started/locally/
 
 (No Prompt Pre Trained Post Trained Generating Transformer)
 
-Gray00 from One Love IPFS created a community inspired Artificial Inteillgence tool using Free/Open Source GPT-NEO 125M Model along with a free/open source python Graphics User Interface. The Intellience System uses the Transformers library produce quality replies from the (Noprompt) NPGPT-Neo model and tokenize user inputs, and the tkinter library to create the user interface.
+Gray00 from One Love IPFS created a community inspired Artificial Inteillgence tool using Free/Open Source GPT-NEO 125M Model along with a free/open source python Graphics User Interface. The Intellience System uses the Transformers library to produce quality replies from the (Noprompt) NPGPT-Neo model and tokenize user inputs, and the tkinter library to create the user interface.
 
 
 ### Graphical Demo with Quantum Equations
