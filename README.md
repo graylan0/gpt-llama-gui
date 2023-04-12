@@ -133,7 +133,7 @@ b. `trideque.json`: This file contains a nested list of prompts to generate resp
 Running the script:
 To run the script, open a command line or terminal window and navigate to the directory containing the Python script. Then, type the following command and press enter:
 
-`python gpu.py`
+`python gui.py`
 
 How the logo works:
 The logo is displayed in the sidebar of the user interface. It is loaded from a PNG file using the Pillow library, resized to fit the size of the sidebar, and displayed using the tkinter library. The logo file should be named "logo.png" and placed in the same directory as the Python script. If the logo is not displayed correctly, make sure that the file exists and is named correctly. If the size of the logo needs to be changed, modify the logo_img = Image.open(logo_path).resize((140, 77)) line to specify the desired dimensions.
