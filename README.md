@@ -1,6 +1,6 @@
 
 
-# GPT GUI
+# GPT / Llama GUI
 Requirements: For Windows CPU only
 
 ```
@@ -25,6 +25,11 @@ https://pytorch.org/get-started/locally/
 
 Gray00 from One Love IPFS created a community inspired Artificial Inteillgence tool using the Free/Open Source GPT-NEO 125M. This GUI uses the Transformers library with a (Zero Pre Orompted) GPT-Neo model, and the customtkinter library to create the user interface.
 
+
+
+Windows Demo: Llama2
+
+![image](https://github.com/graylan0/gptgui/assets/34530588/103aa4b7-c39f-4f56-a7ea-e6628882e228)
 
 ### Graphical Demo with Quantum Equations
 Ubuntu:
