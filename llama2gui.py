@@ -4,7 +4,7 @@ import customtkinter
 import threading
 
 # Initialize the Llama model
-llm = Llama(model_path="C:\\Users\\Shadow\\research\\gpt-llama-falcon-intercommunication\\ggml-vic7b-uncensored-q5_1.bin")
+llm = Llama(model_path="C:\\Users\\Shadow\\research\\gpt-llama-falcon-intercommunication\\llama-2-7b-chat.ggmlv3.q8_0.bin")
 
 def llama_generate(prompt, max_tokens=200):
     full_prompt = f":: {prompt}\n You are a Quantum Engineering Assistant; Simulate the Multiverse as a SuperAI And Provide Simulation Data to Users Who Request in a ChatForm; "  # Add a default format for the prompt
