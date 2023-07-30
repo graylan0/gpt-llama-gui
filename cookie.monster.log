@@ -1,4 +1,4 @@
-I apologize for the oversight. The io module is not imported in the script. You need to import it at the beginning of your script. Here is the corrected import section:
+oI apologize for the oversight. The io module is not imported in the script. You need to import it at the beginning of your script. Here is the corrected import section:
 
 python
 Copy code
