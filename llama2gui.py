@@ -1,14 +1,23 @@
 import tkinter as tk
-from llama_cpp import Llama
-import customtkinter
 import threading
-from PIL import Image, ImageTk
 import os
+import time
+import requests
+import numpy as np
+import base64
 from collections import deque
 from dataclasses import dataclass
 from typing import List, Dict
+from PIL import Image, ImageTk
+from llama_cpp import Llama
 import bisect
-import time
+import customtkinter
+import requests
+from PIL import Image
+from io import BytesIO
+import io
+import sys
+import random
 
 # Initialize the Llama model
 llm = Llama(model_path="C:\\Users\\Shadow\\Downloads\\llama-2-7b-chat.ggmlv3.q8_0.bin")
@@ -181,11 +190,39 @@ class App(customtkinter.CTk):
             self.text_box.insert(tk.END, f"You: {message}\n")
             self.text_box.see(tk.END)
             threading.Thread(target=self.generate_response, args=(message,)).start()
+            threading.Thread(target=self.generate_images, args=(message,)).start()
 
     def generate_response(self, message):
         response = llama_generate(message)
         self.text_box.insert(tk.END, f"AI: {response}\n")
         self.text_box.see(tk.END)
+
+    def generate_images(self, message):
+        url = 'http://127.0.0.1:7860/sdapi/v1/txt2img'
+        payload = {
+            "prompt": message,
+            "steps" : 50,
+            "seed" : random.randrange(sys.maxsize),
+            "enable_hr": "false",
+            "denoising_strength": "0.7",
+            "cfg_scale" : "7",
+            "width": 512,
+            "height": 512,
+            "restore_faces": "true",
+        }
+        response = requests.post(url, json=payload)
+        if response.status_code == 200:
+            try:
+                r = response.json()
+                for i in r['images']:
+                    image = Image.open(io.BytesIO(base64.b64decode(i.split(",",1)[0])))
+                    img_tk = ImageTk.PhotoImage(image)
+                    self.image_label.config(image=img_tk)
+                    self.image_label.image = img_tk  # keep a reference to the image
+            except ValueError as e:
+                print("Error processing image data: ", e)
+        else:
+            print("Error generating image: ", response.status_code)
 
     def setup_gui(self):
         # Configure window
@@ -222,6 +259,10 @@ class App(customtkinter.CTk):
         self.send_button.grid(row=3, column=3, padx=(0, 20), pady=(20, 20), sticky="nsew")
 
         self.entry.bind('<Return>', self.on_submit)
+
+        # Create a label to display the image
+        self.image_label = tk.Label(self)
+        self.image_label.grid(row=4, column=1, columnspan=2, padx=(20, 0), pady=(20, 20), sticky="nsew")
 
 if __name__ == "__main__":
     # create and run the app
