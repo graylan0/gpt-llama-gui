@@ -1,4 +1,7 @@
 
+DEMO:
+
+![image](https://github.com/graylan0/gpt-llama-gui/assets/34530588/4ebe9a76-75ff-43d7-8031-2b88cee68edc)
 
 # GPT / Llama GUI
 Requirements: For Windows CPU only
